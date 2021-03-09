@@ -24,6 +24,35 @@
     A real é que: pouco importa. Aprenda conceitos, busque uma linguagem que você ache bacana e comece a aplicar esses conceitos. Mas certifique-se de encontrar uma linguagem bastante difundida e que tenha vasto conteúdo na internet, para facilitar o seu aprendizado. 
 
 - Quais os sites com conteúdo grátis e pago de programação?
+    Vou fazer algumas recomendações por localização dos conteúdos, listar alguns dos conteúdos para facilitar e abaixo por o link. Todas as recomendações estão em português ou pelo menos legendado.
+    
+    **Youtube:**
+    **Programação**
+    Curso em vídeo: Python, HTM, CSS, Javascript, entre outros
+    https://www.youtube.com/c/CursoemV%C3%ADdeo/playlists
+    
+    CFBCursos: Java, React, SQL, C#, PHP, HTML entre outros
+    https://www.youtube.com/c/cfbcursos/featured
+    
+    Victor Lima - Guia do Programador: Vue Js, Node.Js, Knex.Js
+    https://www.youtube.com/c/GuiadoProgramador/featured
+    
+    Descompila: VueJs, API Rest, BigData, C#, Python
+    https://www.youtube.com/c/Descompila/featured
+    
+    **Sites**
+    **Data Science Academy:** Embora a a DSA seja uma plataforma paga, eles oferecem cursos gratuitos para o pessoal que ainda não é da área. O cursos são bem completos para oq ue se propõem, além de ser uma boa antes de procurar algo profundo. O cursos gratuitos que eles oforecem são: PowerBi, Python apra análise de dados, Inteligência Artificial, Big Data, Ciência de dados
+    https://www.datascienceacademy.com.br/
+    
+    **Coursera:** Aqui tem tudo quanto é tipo de curso, tanto pago quanto gratuito. POr isso vou listar alguns que estão em portugês ou têm legenda pelo menos. Vale ressaltar que é possível obter um tipo de auxílio para o não pagamento da plataforma, a análise demora 15 dias. Também é possível realizaar os cursos como ouvinte, entretanto, não terá diretio a certificado. Alguns dos cursos que são ofertados em português: Introdução à Ciência da Computação com Python Parte 1 e 2 (USP), Machine Learning (Stanford), Reality and ARCore(Google AR & VR), Data Science Math Skills(Duke).
+    https://www.coursera.org/courses?query=free
+    
+    **Digital Inovation One:** Acho bem legal a iniciativa dessa plataforma porque ela oferece bootcamps em parcerias com empresas como localiza, MRV e Avanade. Quando o aluno termina o bootcamp, a depender da sua colocação, ele vai para o processo seletivo da empresa. Não é necessário conhecimento anterior para fazer os bootcamps, mas ajuda bastante. Também é possível fazzer os cursos a parte. Alguns dos bootcamps são: front-end, backend, full stack e developer android. As linguagens dos bootcamps variam entre Java, Javascript, Python, C#. 
+    https://digitalinnovation.one/
+    
+    **Kaggle**: O kaggle é conhecido por todos que querem ser Datascientist por causa das suas competições. Entretanto, para aqueles que não sabem por onde começar, o kaggle oferece mini-cursos, todos eles com aplicações diretas em competiçõs da plataforma e sem enrolação. Os cursos que eles têm são: Python, Data Cleaning, machine learing, Ai para games, Deep learning, library Pandas entre outros. Os cursos são em inglês, mas todos em texto o que permite usar o google translator.
+    https://www.kaggle.com/learn/overview
+    
 
 - Hardwares mínimos para desenvolvimento.
 
