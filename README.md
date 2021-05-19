@@ -39,6 +39,8 @@ A real é que: pouco importa. Aprenda conceitos, busque uma linguagem que você 
 
 - [Kaggle](https://www.kaggle.com/learn/overview)
 
+- [Curso de JavaScript Completo - Grátis](https://alunos.workover.com.br/courses/38)
+
 
 ## Hardwares mínimos para desenvolvimento.
 
